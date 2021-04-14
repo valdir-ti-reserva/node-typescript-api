@@ -1,1 +1,1 @@
-console.log('Test Api')
+console.log('Test Api');
